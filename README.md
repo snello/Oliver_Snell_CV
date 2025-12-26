@@ -1,2 +1,2 @@
 # Oliver_Snell_CV
-My CV captured as a resumeCV YAML file
+My CV/Resume captured in a structured format for processing by [renderCV](https://github.com/rendercv/rendercv). 
