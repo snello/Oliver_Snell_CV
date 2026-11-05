@@ -107,7 +107,7 @@ Product & Engineering Executive. Has broad experience leading global teams in Id
 
 #strong[Revenue Growth:] Drove product strategy for Verify, growing revenue from \$5M to \$25M. For Pre-Fill, scaled from \$0 to \$50M. Growth came from customer-driven feature development as well as recognizing shared requirements in adjacent markets.
 
-#strong[AI\/ML-Powered Identity Platform:] Designed Prove's Identity Platform, replacing legacy static heuristics with dynamic ML models fed by real-time streaming data. Collaborated cross-functionally with data scientists to continuously improve fraud detection performance while expanding margins from 73\% to 93\%, delivering better outcomes at lower cost.
+#strong[AI\/ML-Powered Identity Platform:] Designed Prove's Identity Platform, replacing legacy static heuristics with dynamic ML models fed by real-time streaming data. Collaborated cross-functionally with data scientists to continuously improve fraud detection performance while expanding margins from 70\% to 93\%, delivering better outcomes at lower cost.
 
 #strong[0-1 Builds:] Built several Product and Engineering teams from the ground up, including a team of four that I took from zero to launched product in five months.
 
