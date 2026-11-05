@@ -132,6 +132,6 @@ Provides trading and risk management solutions for equities, fixed income, forex
 
 - Bachelor’s degree in Computer Science with honors
 
-- Thesis: Quality based analysis and enhancement of Voice over IP (VoIP) encoding standards.
+- Thesis was Quality-based analysis and enhancement of Voice over IP (VoIP) encoding standards.
 
 

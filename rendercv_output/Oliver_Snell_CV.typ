@@ -277,7 +277,7 @@ Product & Engineering Executive with extensive experience leading global teams i
   main-column-second-row: [
     - Bachelor’s degree in Computer Science with honors
 
-    - Thesis: Quality based analysis and enhancement of Voice over IP (VoIP) encoding standards.
+    - Thesis was Quality-based analysis and enhancement of Voice over IP (VoIP) encoding standards.
 
   ],
 )
